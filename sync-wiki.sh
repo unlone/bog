@@ -7,6 +7,8 @@
 
 
 
+
+
 git pull origin master
 cd wiki
 git pull origin master
