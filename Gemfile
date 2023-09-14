@@ -1,5 +1,4 @@
-#source 'http://rubygems.org'
-source 'https://gems.ruby-china.com'
+source 'http://rubygems.org'
 gem "jekyll-avatar"
 gem "jekyll-coffeescript"
 gem "jekyll-default-layout"
